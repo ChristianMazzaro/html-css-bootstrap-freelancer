@@ -27,3 +27,13 @@
     background-color: rgb(146, 35, 133);
     outline: 1px dashed black;
 }
+
+.debug > * > * > * > * > * > * > *{
+    background-color: rgb(172, 170, 51);
+    outline: 1px dashed black;
+}
+
+.debug > * > * > * > * > * > * > * > *{
+    background-color: rgb(255, 94, 0);
+    outline: 1px dashed black;
+}
