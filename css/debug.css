@@ -1,39 +1,39 @@
-.debug > *{
+debug > *{
     background-color: orange;
     outline: 1px dashed blue;
 }
 
-.debug > * > *{
+debug > * > *{
     background-color: greenyellow;
     outline: 1px dashed lightcoral;
 }
 
-.debug > * > * > *{
+debug > * > * > *{
     background-color: red;
     outline: 1px dashed black;
 }
 
-.debug > * > * > * > *{
+debug > * > * > * > *{
     background-color: pink;
     outline: 1px dashed black;
 }
 
-.debug > * > * > * > * > *{
+debug > * > * > * > * > *{
     background-color: rgb(214, 61, 86);
     outline: 1px dashed black;
 }
 
-.debug > * > * > * > * > * > *{
+debug > * > * > * > * > * > *{
     background-color: rgb(146, 35, 133);
     outline: 1px dashed black;
 }
 
-.debug > * > * > * > * > * > * > *{
+debug > * > * > * > * > * > * > *{
     background-color: rgb(172, 170, 51);
     outline: 1px dashed black;
 }
 
-.debug > * > * > * > * > * > * > * > *{
+debug > * > * > * > * > * > * > * > *{
     background-color: rgb(255, 94, 0);
     outline: 1px dashed black;
 }
