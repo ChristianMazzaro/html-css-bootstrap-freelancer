@@ -27,3 +27,51 @@ GENERAL
 
 */
 
+.nav-link , .navbar-brand{
+    color: white;
+}
+
+
+nav{
+    background-color: #2C3E50;
+}
+
+button{
+    border-color: white;
+}
+
+.green_bg{
+    background-color: #1ABC9C;
+}
+
+.border_color_white{
+    border-color: white;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+hr{
+    display: inline-block;
+    border: 3px solid white;
+    border-radius:50px;
+    opacity: 1;   
+    width: 30%;
+}
+
+.col-7 > img{
+    height: 12.5rem;
+    width: 12.5rem;
+}
+
+.col-7 > svg{
+    vertical-align: top;
+    margin: 0 20px;
+}
+
+.col-7 > P{
+    color: white;
+    font-size: 25px;
+}
