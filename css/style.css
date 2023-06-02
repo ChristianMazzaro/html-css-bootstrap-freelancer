@@ -53,9 +53,21 @@ h1{
     color: white;
 }
 
+h2{
+    font-size: 50px;
+}
+
 hr{
     display: inline-block;
     border: 3px solid white;
+    border-radius:50px;
+    opacity: 1;   
+    width: 30%;
+}
+
+.dark_hr{
+    display: inline-block;
+    border: 3px solid black;
     border-radius:50px;
     opacity: 1;   
     width: 30%;
@@ -74,4 +86,11 @@ hr{
 .col-7 > P{
     color: white;
     font-size: 25px;
+}
+
+.small_img{
+    height: 12.5rem;
+    width: 15.625rem;
+    display: inline-block;
+    border-radius: 25px;
 }
