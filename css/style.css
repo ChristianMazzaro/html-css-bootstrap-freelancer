@@ -44,6 +44,10 @@ button{
     background-color: #1ABC9C;
 }
 
+.green_txt{
+    color: #1ABC9C;
+}
+
 .border_color_white{
     border-color: white;
 }
@@ -77,6 +81,14 @@ hr{
     width: 30%;
 }
 
+.form_hr{
+    display: inline-block;
+    border: 1px solid lightgrey;
+    opacity: 0.5;   
+    width: 100%;
+    margin-top: 3.125rem;
+}
+
 .col-7 > img{
     height: 12.5rem;
     width: 12.5rem;
@@ -102,4 +114,19 @@ hr{
 .small_btn{
     width: 200px;
     display: block;
+}
+
+.grey_bg{
+    background-color: #3A546D;
+}
+
+.dark_grey_bg{
+    background-color: #2C3E50;
+}
+
+.circle_border{
+    padding: .625rem;
+    border: 3px solid white;
+    opacity: 1;
+    border-radius: 50%;
 }
